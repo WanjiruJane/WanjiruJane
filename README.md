@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Wanjiru Jane.
-- 👀 I’m interested in front end development and cyber security.
+- 👀 I’m interested in front end development, cyber security and data science.
 - 🌱 I’m currently learning Information technology at Kabarak University.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me ...wanjirujane9213@gmail.com
